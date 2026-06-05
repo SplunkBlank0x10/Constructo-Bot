@@ -1,108 +1,59 @@
-\# Roadmap
+# Roadmap
 
+## Repository Structure
 
+```
+Constructo-Bot/
+├── LICENSE
+├── README.md
+├── ROADMAP.md
+└── Languages/
+    └── Assembly/
+        ├── x86/
+        ├── x86-64/
+        ├── ARM/
+        ├── AArch64/
+        ├── ARM-Thumb/
+        ├── RISC-V/
+        ├── MIPS/
+        ├── MIPS64/
+        ├── Motorola-68000/
+        ├── Motorola-6800/
+        ├── ColdFire/
+        ├── MOS-6502/
+        ├── WDC-65C02/
+        ├── WDC-65816/
+        ├── Z80/
+        ├── Z8000/
+        ├── AVR/
+        ├── PIC/
+        ├── MSP430/
+        ├── Intel-8051/
+        ├── Intel-8080/
+        ├── Intel-8085/
+        ├── IBM-System-360-370/
+        ├── IBM-z-Architecture/
+        ├── PowerPC/
+        ├── POWER-ISA/
+        ├── SPARC/
+        ├── SPARCv9/
+        ├── DEC-Alpha/
+        ├── DEC-PDP-11/
+        ├── DEC-VAX/
+        ├── PA-RISC/
+        ├── Itanium-IA64/
+        ├── PTX/
+        ├── RDNA-GCN/
+        ├── LoongArch/
+        ├── Xtensa/
+        ├── SPARC-LEON/
+        ├── SuperH-SH/
+        └── WebAssembly-WAT/
+```
 
-\## Languages
+## Progress
 
-\- \[ ] Assembly
-
-\- \[ ] C
-
-\- \[ ] C++
-
-\- \[ ] (more to come)
-
-
-
-\---
-
-
-
-\## Assembly Variants
-
-
-
-| Variant | Family | Projects |
-
-|---|---|---|
-
-| x86 | x86 | \[ ] |
-
-| x86-64 | x86 | \[ ] |
-
-| ARM | ARM | \[ ] |
-
-| AArch64 | ARM | \[ ] |
-
-| ARM-Thumb | ARM | \[ ] |
-
-| RISC-V | RISC-V | \[ ] |
-
-| MIPS | MIPS | \[ ] |
-
-| MIPS64 | MIPS | \[ ] |
-
-| Motorola-68000 | Motorola | \[ ] |
-
-| Motorola-6800 | Motorola | \[ ] |
-
-| ColdFire | Motorola | \[ ] |
-
-| MOS-6502 | MOS Technology | \[ ] |
-
-| WDC-65C02 | MOS Technology | \[ ] |
-
-| WDC-65816 | MOS Technology | \[ ] |
-
-| Z80 | Zilog | \[ ] |
-
-| Z8000 | Zilog | \[ ] |
-
-| AVR | Embedded | \[ ] |
-
-| PIC | Embedded | \[ ] |
-
-| MSP430 | Embedded | \[ ] |
-
-| Intel-8051 | Embedded | \[ ] |
-
-| Intel-8080 | Embedded | \[ ] |
-
-| Intel-8085 | Embedded | \[ ] |
-
-| IBM-System-360-370 | IBM / Mainframe | \[ ] |
-
-| IBM-z-Architecture | IBM / Mainframe | \[ ] |
-
-| PowerPC | PowerPC / POWER | \[ ] |
-
-| POWER-ISA | PowerPC / POWER | \[ ] |
-
-| SPARC | SPARC | \[ ] |
-
-| SPARCv9 | SPARC | \[ ] |
-
-| DEC-Alpha | DEC / Historical | \[ ] |
-
-| DEC-PDP-11 | DEC / Historical | \[ ] |
-
-| DEC-VAX | DEC / Historical | \[ ] |
-
-| PA-RISC | HP | \[ ] |
-
-| Itanium-IA64 | HP | \[ ] |
-
-| PTX | GPU / Parallel | \[ ] |
-
-| RDNA-GCN | GPU / Parallel | \[ ] |
-
-| LoongArch | Other | \[ ] |
-
-| Xtensa | Other | \[ ] |
-
-| SPARC-LEON | Other | \[ ] |
-
-| SuperH-SH | Other | \[ ] |
-
-| WebAssembly-WAT | Other | \[ ] |
-
+- [x] Assembly
+- [ ] C
+- [ ] C++
+- [ ] More to come...
