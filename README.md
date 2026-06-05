@@ -1,20 +1,12 @@
-\# Constructo-Bot
+# Constructo-Bot
 
-
-
-A personal repository dedicated to programming languages, built from the ground up.  
-
+A personal repository dedicated to programming languages, built from the ground up.
 Starting with Assembly — every architecture, every variant, with hands-on projects for each.
 
-
-
-\## Structure
+## Structure
 
 Languages → Architecture → Variants → Projects
 
-
-
-\## License
+## License
 
 MIT
-
