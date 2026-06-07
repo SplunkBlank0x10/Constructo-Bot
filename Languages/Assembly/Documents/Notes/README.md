@@ -10,45 +10,46 @@ Assembly/
 │   ├── Notes/
 │   │   └── README.md
 │   └── Comparisons/
-├── x86-64/
-├── ARM/
 ├── AArch64/
+├── ARM/
 ├── ARM-Thumb/
-├── RISC-V/
-├── MIPS/
-├── MIPS64/
-├── Motorola-68000/
-├── Motorola-6800/
-├── ColdFire/
-├── MOS-6502/
-├── WDC-65C02/
-├── WDC-65816/
-├── Z80/
-├── Z8000/
 ├── AVR/
-├── PIC/
-├── MSP430/
-├── Intel-8051/
-├── Intel-8080/
-├── Intel-8085/
-├── IBM-System-360-370/
-├── IBM-z-Architecture/
-├── PowerPC/
-├── POWER-ISA/
-├── SPARC/
-├── SPARCv9/
+├── ColdFire/
 ├── DEC-Alpha/
 ├── DEC-PDP-11/
 ├── DEC-VAX/
-├── PA-RISC/
+├── IBM-System-360-370/
+├── IBM-z-Architecture/
+├── Intel-8051/
+├── Intel-8080/
+├── Intel-8085/
 ├── Itanium-IA64/
-├── PTX/
-├── RDNA-GCN/
 ├── LoongArch/
-├── Xtensa/
+├── MIPS/
+├── MIPS64/
+├── MOS-6502/
+├── MSP430/
+├── Motorola-6800/
+├── Motorola-68000/
+├── PA-RISC/
+├── PIC/
+├── POWER-ISA/
+├── PTX/
+├── PowerPC/
+├── RDNA-GCN/
+├── RISC-V/
+├── SPARC/
 ├── SPARC-LEON/
+├── SPARCv9/
 ├── SuperH-SH/
-└── WebAssembly-WAT/
+├── WDC-65C02/
+├── WDC-65816/
+├── WebAssembly-WAT/
+├── Xtensa/
+├── Z80/
+├── Z8000/
+├── x86/
+└── x86-64/
 ```
 
 ## Variants Covered
